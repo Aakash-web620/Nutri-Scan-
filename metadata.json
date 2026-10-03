@@ -1,0 +1,6 @@
+{
+  "name": "NutriVision",
+  "description": "AI Photo Nutritionist & Smart Meal Planner with Gemini vision scanner, macro tracking, and fridge recipe generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
